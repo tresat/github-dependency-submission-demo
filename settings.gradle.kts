@@ -4,3 +4,5 @@ plugins {
 
 rootProject.name = "github-dependency-submission-demo"
 include("lib")
+
+// trigger updates
